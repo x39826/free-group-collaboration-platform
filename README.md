@@ -53,7 +53,7 @@ each need must has a corresponding demand for resources
 
 each resource must also have the corresponding requirements
 
-good demand, good resources, such collaboration will be healthy to run down.
+good needs, good resources, such collaborations will be healthy to run down.
 
 
 
