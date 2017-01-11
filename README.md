@@ -1,5 +1,5 @@
 # free-group-collaboration-platform
-A exciting free group collaboration platform under development
+An exciting free group collaboration platform under development
 
 
 Today is a very meaningful day in history
