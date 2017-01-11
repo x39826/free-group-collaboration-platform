@@ -19,3 +19,14 @@ People will work together, study, study and live happily
 For this goal, we play their own strength	
 
 Today, we set out!	
+
+
+It is now a GitHub project that requires interested people to grow up, 
+
+no matter how much contribution, even if it is an idea, a vision.
+
+It's what it takes for you to decide together, 
+
+everyone can add their own ideas and contributions,
+
+time will shape its shape
